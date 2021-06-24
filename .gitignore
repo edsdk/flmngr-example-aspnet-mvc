@@ -1,0 +1,13 @@
+.idea/
+.svn
+*.user
+*.suo
+/packages
+/.vs
+*/obj/
+*/bin/
+/TestApp/filestmp/
+/TestApp/files/
+/TestApp/cache
+/TestAppWebForms/cache
+/TestAppWebForms/files
