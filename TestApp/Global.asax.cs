@@ -11,7 +11,7 @@ namespace TestApp
     {
         protected void Application_Start()
         {
-            Flmngr.Logger.Init();
+            //Flmngr.Logger.Init();
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
