@@ -1,6 +1,8 @@
 ## Example of using Flmngr file manager in .NET MVC framework
 
-This package shows how to integrate [@edsdk/flmngr](https://www.nuget.org/packages/Flmngr/) into your .NET MVC framework application in order to let your [N1ED](https://n1ed.com) or [Flmngr](https://flmngr.com) widget a power to interact with files on your server.
+>The repo contains ready to use MVC application with the required NuGet package as a dependency.
+
+This package shows how to integrate [Flmngr backend](https://www.nuget.org/packages/Flmngr/) into your .NET MVC framework application in order to let a power to interact with files on a server to your [N1ED](https://n1ed.com) or [Flmngr](https://flmngr.com) widget.
 
 
 ## Get and run
